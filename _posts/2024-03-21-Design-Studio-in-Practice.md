@@ -23,9 +23,9 @@ Design studio is a methodology I learned from two dapper gentleman, Todd Zaki Wa
 
 When faced with a new design challenge last week I was happy to hear from google that this practice has been canonized through a series of articles on UX Magazine. I recommend you read through these resources to discover the depth of the method, its design, and application.
 
-[Introduction to Design Studio Methodology](https://web.archive.org/web/20121214204205/http://uxmag.com/articles/introduction-to-design-studio-methodology)
-[The Design of Design Studio](https://web.archive.org/web/20120910154318/http://uxmag.com/articles/the-design-of-design-studio)
-[Design Studio and Agile UX Pitfalls](https://web.archive.org/web/20121017041101/http://uxmag.com/articles/design-studio-and-agile-ux-process-and-pitfalls)
+- [Introduction to Design Studio Methodology](https://web.archive.org/web/20121214204205/http://uxmag.com/articles/introduction-to-design-studio-methodology)
+- [The Design of Design Studio](https://web.archive.org/web/20120910154318/http://uxmag.com/articles/the-design-of-design-studio)
+- [Design Studio and Agile UX Pitfalls](https://web.archive.org/web/20121017041101/http://uxmag.com/articles/design-studio-and-agile-ux-process-and-pitfalls)
 
 ## Takeaways
 Rather than blowing out the method I will keep it brief and share my top three takeaways from the day below. But first a public service message – if you are developing a UX practice find a mentor! Join a community! It will pay off in ways you never imagine possible when the juicy design challenges come across your desk.
