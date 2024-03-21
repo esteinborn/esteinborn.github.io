@@ -1,12 +1,7 @@
 ---
 layout: post
-title: Defining the Design Studio Process - Design Studio Web Archives - UNARCHIVED!!
+title: Defining the Design Studio Process
 ---
-
-Taken with love from web archive:
-https://web.archive.org/web/20141011011348/https://www.arl.org/about/arl-strategic-thinking-and-design/work-stream-3-design-studios/2981-defining-the-design-studio-process#.VDiEU-x_pqY
-
-# Defining the Design Studio Process
 
 ## Concept One: Brainstorming +
 Brainstorming is a collective creative process of speculation. Its goal is to use diverse talent, expertise and points of view to generate many ideas around a problem or project. One of the key rules of brainstorming is withholding all criticism, reserving it for a later stage of the process. Brainstorming is meant to be collaborative.
@@ -24,3 +19,5 @@ Design is different from brainstorming in that it is meant to not only generate 
 
 ## Concept Five: Design as an Emergent and Iterative Process
 The entire design process works by incorporating new information as it is introduced along the way, through: (a) analysis of what has been done in the past; (b) asking what the relationship of past work is to the emerging vision and goals; (c) new questions that are raised by provisional what-if scenarios; and (d) new stakeholders who are pulled into the process.
+
+[Taken with love from web archive:](https://web.archive.org/web/20141011011348/https://www.arl.org/about/arl-strategic-thinking-and-design/work-stream-3-design-studios/2981-defining-the-design-studio-process#.VDiEU-x_pqY)
